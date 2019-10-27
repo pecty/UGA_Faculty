@@ -231,7 +231,28 @@ Professor Lofton’s has two research agendas: (1) the impacts of financial mana
 
 
 
+## Laurence J. O’Toole (Distinguished Research Professor Emeritus)
+<img src="https://spia.uga.edu/wp-content/uploads/2016/05/otoole.jpg" width="200" height="230" />
 
+[CV](https://spia.uga.edu/wp-content/uploads/2016/05/VITA.otoole-August-2018-2.pdf)
+
+[Personal Page](https://spia.uga.edu/faculty-member/laurence-j-otoole/)
+
+[Publications](https://scholar.google.com/citations?hl=en&user=VTdPNYgAAAAJ&view_op=list_works&sortby=pubdate)
+
+
+## Hal G. Rainey (Professor Emeritus)
+<img src="https://spia.uga.edu/wp-content/uploads/2016/05/SPIA-faculty-images-rainey.jpg" width="200" height="230" />
+
+#### Research Interest
+- Large Scale Organizational Change
+- Leadership in Public and Nonprofit Organizations
+- Organizational Incentive Systems
+- Work-related Attitude Surveys in Public and Nonprofit Organizations
+
+[Personal Page](https://spia.uga.edu/faculty-member/hal-g-rainey/)
+
+[Publications](https://scholar.google.com/citations?hl=en&user=kWSLQJgAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 ## Susan B. Haire (Political Science)
@@ -361,7 +382,25 @@ His research concentrates on strategy and innovation in public policy and organi
 [Personal Page](https://spia.uga.edu/faculty-member/anthony-mallon/)
 
  
-## Jerome S. Legge (Professor Emeritus )
+## Jerome S. Legge (Professor Emeritus)
 <img src="https://spia.uga.edu/wp-content/uploads/2016/05/legge.jpg" width="200" height="230" />
 
 [Personal Page](https://spia.uga.edu/faculty-member/jerome-s-legge/)
+
+
+## Delmer D. Dunn (Regents Professor Emeritus)
+<img src="https://spia.uga.edu/wp-content/uploads/2016/05/SPIA-faculty-images-dunn.jpg" width="200" height="230" />
+
+[Personal Page](https://spia.uga.edu/faculty-member/delmer-d-dunn/)
+
+
+## Thomas P. Lauth (Professor Emeritus)
+<img src="https://spia.uga.edu/wp-content/uploads/2016/05/SPIA-faculty-images-lauth.jpg" width="200" height="230" />
+
+[Personal Page](https://spia.uga.edu/faculty-member/thomas-p-lauth/)
+
+
+## David Mustard (Affiliated Professor, Associate Professor of Economics)
+<img src="https://spia.uga.edu/wp-content/uploads/2016/05/SPIA-faculty-images-mustard.jpg" width="200" height="230" />
+
+[Personal Page](https://spia.uga.edu/faculty-member/david-mustard/)
